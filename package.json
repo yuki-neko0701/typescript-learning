@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yuki-neko0701/typescript-learning/issues"
   },
-  "homepage": "https://github.com/yuki-neko0701/typescript-learning#readme"
+  "homepage": "https://github.com/yuki-neko0701/typescript-learning#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
